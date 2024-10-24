@@ -1,5 +1,4 @@
 # Stanley's Energy-related Jobs board
-====
 
 Welcome to Stanley's Energy-related Jobs Board
 
